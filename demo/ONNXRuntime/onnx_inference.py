@@ -5,6 +5,9 @@
 import argparse
 import os
 
+import sys
+sys.path.append(r'/home/vader/Downloads/YOLOX-main')
+
 import cv2
 import numpy as np
 
